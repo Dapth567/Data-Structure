@@ -1,0 +1,22 @@
+# Only the Data Structure work (q1-q4) goes in this repo
+/*
+!/.gitignore
+!/README.md
+!/q1/
+!/q2/
+!/q3/
+!/q4/
+
+# Build outputs and editor files
+*.exe
+*.o
+*.obj
+*.layout
+*.depend
+bin/
+obj/
+.vscode/
+*.code-workspace
+*.zip
+*.pdf
+q4/package_leaves_count/main
